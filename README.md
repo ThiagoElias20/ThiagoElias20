@@ -1,7 +1,7 @@
 ### Olá!!! Sou o Thiago, prazer!
 
-- 🔭 Trabalhando com Front-end e estudando o mesmo.
-- 💬 Fale comigo por email ou até mesmo discord (Thiago Elias#9852), sempre bom conversar!
+- 🔭 Estudando Front-End.
+- 💬 Fale comigo por email ou até mesmo discord (Thiago Elias#9852).
 
 <div align="center">
   <a href="https://github.com/ThiagoElias22">
