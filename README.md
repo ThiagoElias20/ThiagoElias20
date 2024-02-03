@@ -4,8 +4,9 @@
 - 💬 Fale comigo por email ou até mesmo discord (Thiago Elias#9852).
 
 <div align="center">
-  <a href="https://github.com/ThiagoElias22">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoElias22&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoElias20&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+  <a href="https://github.com/ThiagoElias20">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoElias20&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
   
   <div style="display: inline_block"><br>
